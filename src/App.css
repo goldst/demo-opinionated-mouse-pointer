@@ -72,3 +72,12 @@
     -webkit-mask-composite: xor;
     mask-composite: subtract;
 }
+
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+}
+
+button {
+    font-family: inherit !important;
+}
