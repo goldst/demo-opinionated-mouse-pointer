@@ -58,6 +58,7 @@
     grid-template-columns: calc(0.56 * var(--r-cm));
     column-gap: calc(0.0224 * var(--r-cm));
     padding: 2px;
+    margin: calc(0.2 * var(--r-cm)) 0;
     transition: transform 0.5s, box-shadow 0.5s;
 }
 
