@@ -57,15 +57,14 @@
     grid-template-areas: "logo";
     grid-template-columns: calc(0.56 * var(--r-cm));
     column-gap: calc(0.0224 * var(--r-cm));
-    padding: calc(0.0224 * var(--r-cm));
-    margin: calc(0.2 * var(--r-cm)) 0;
+    padding: 2px;
     transition: transform 0.5s, box-shadow 0.5s;
 }
 
 .logo-image {
     width: 100%;
     height: 100%;
-    background-color: var(--beige-dark);
+    background-color: white;
     grid-area: logo;
     -webkit-mask: linear-gradient(black, black), url(/blocks/card/card--main__logo.svg) no-repeat 0 0 / 100% 100%;
     mask: linear-gradient(black, black), url(/blocks/card/card--main__logo.svg) no-repeat 0 0 / 100% 100%;
