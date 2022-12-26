@@ -160,10 +160,10 @@ function App() {
                         I created this experiment to test how an opinionated mouse pointer would feel on a new version of my personal website. You can find the current version, as well as other experiments, at <a href="https://goldst.dev">goldst.dev</a>.
                     </p>
                     <p>
-                        This project uses <code>@<a href="https://hatch.studio">hatch</a>/hds</code>, a propietary component library. The experiment itself is available under the MIT license.
+                        This project uses <code>@<a href="https://hatch.studio">hatch</a>/hds</code>, a propietary component library. The experiment itself is available under the <a href="https://raw.githubusercontent.com/goldst/demo-opinionated-mouse-pointer/main/LICENSE">MIT license</a>.
                     </p>
                     <p>
-                        Fork this on GitHub | Impressum
+                        <a href="https://github.com/goldst/demo-opinionated-mouse-pointer/">Fork this on GitHub</a> | <a href="https://goldst.dev/impressum.html">Impressum</a>
                     </p>
                 </HatchWrapper>
                 <HatchWrapper style={{ width: '200px' }} space='10px'>
